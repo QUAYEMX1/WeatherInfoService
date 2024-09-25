@@ -27,5 +27,12 @@ Before deploy the application,i have the following installed:
    2.API Endpoint
    http://localhost:8080/api/weatherService/GetWeatherInfo?city={city}&apiKey={apiKey}
 
+   ## Troubleshooting
+
+- **Ensure we have the correct Java version**: This application is compatible with Java 17 or higher.
+- **Check your API key**: Make sure OpenWeatherMap API key is valid and has the necessary permissions.
+- **Port conflicts**: If port 8080 is already in use, we can change the port in `application.properties` by adding `server.port=8081` (or any other available port).
+
+
 ### Conclusion
 **This Weather Information Service** provides a simple way to access weather data for any city.
