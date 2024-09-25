@@ -23,3 +23,9 @@ Before deploy the application,i have the following installed:
 
 ### 1.Repository Link
    https://github.com/QUAYEMX1/WeatherInfoService
+
+   2.API Endpoint
+   http://localhost:8080/api/weatherService/GetWeatherInfo?city={city}&apiKey={apiKey}
+
+### Conclusion
+**This Weather Information Service** provides a simple way to access weather data for any city.
