@@ -22,7 +22,7 @@
 
 The `WeatherController` class handles API requests for retrieving weather information. The endpoints are as follows:
 
-- **GET** `/api/weatherService/GetWeatherInfo?city={city}&apiKey={apiKey}`: Fetch the current weather information for the specified city.
+- **GET** `localhost:8080/api/weatherService/GetWeatherInfo?city={city}&apiKey={apiKey}`: Fetch the current weather information for the specified city.
 
 ## Technologies Used
 
@@ -39,12 +39,14 @@ The `WeatherController` class handles API requests for retrieving weather inform
 
 ### Prerequisites
 
-Before begin, i have the following installed:
+Before begin, you have the following installed:
 
 - **Java 17 or higher**
 - **Maven**
 - **An IDE** (e.g., IntelliJ IDEA)
 - **An OpenWeatherMap API key** (sign up at [OpenWeatherMap](https://openweathermap.org/api) to get an API key).
+- i have Provided the my API Key in Application.Properties, you can use the same to run the Application
+  **Application.Properties=**Here You will get my API Key
 
 ### Installation
 
@@ -57,7 +59,7 @@ Before begin, i have the following installed:
 
 2. **Set Up the Backend**:
    - Open the backend project in IntelliJ IDEA.
-   - Configure our application properties for the OpenWeatherMap API key.
+   - Configure your application properties for the OpenWeatherMap API key.
 
 3. **Run the Application**:
    - Start the backend server using the command:
