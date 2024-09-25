@@ -22,7 +22,7 @@
 
 The `WeatherController` class handles API requests for retrieving weather information. The endpoints are as follows:
 
-- **GET** `localhost:8080/api/weatherService/GetWeatherInfo?city={city}&apiKey={apiKey}`: Fetch the current weather information for the specified city.
+- **GET** `/api/weatherService/GetWeatherInfo?city={city}&apiKey={apiKey}`: Fetch the current weather information for the specified city.
 
 ## Technologies Used
 
