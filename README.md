@@ -33,7 +33,7 @@ The `WeatherController` class handles API requests for retrieving weather inform
 ### Development Tools
 
 - **IntelliJ IDEA** (Backend)
-- **Visual Studio Code** (Frontend, if applicable)
+-**Postman** (Testing Purpose)
 
 ## Getting Started
 
