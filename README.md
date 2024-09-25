@@ -47,8 +47,8 @@ Before begin, you have the following installed:
 - **An OpenWeatherMap API key** (sign up at [OpenWeatherMap](https://openweathermap.org/api) to get an API key).
 - i have Provided  my API Key in Application.Properties, you can use the same to run the Application 
  src/main/resources/application.properties.
-  - **Application.Properties=**
-  -openweathermap.api.key=YOUR_ACTUAL_API_KEY_HERE
+  - **Application.Properties=:**
+  openweathermap.api.key=YOU WILL GET MY API KEY HERE
 
 
 ### Installation
