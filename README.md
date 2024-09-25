@@ -45,8 +45,8 @@ Before begin, you have the following installed:
 - **Maven**
 - **An IDE** (e.g., IntelliJ IDEA)
 - **An OpenWeatherMap API key** (sign up at [OpenWeatherMap](https://openweathermap.org/api) to get an API key).
-- i have Provided the my API Key in Application.Properties, you can use the same to run the Application
-  **Application.Properties=**Here You will get my API Key
+- i have Provided  my API Key in Application.Properties, you can use the same to run the Application
+  - **Application.Properties=** Here You will get my API Key
 
 ### Installation
 
