@@ -12,19 +12,14 @@
 
 ## Prerequisites
 
-Before you deploy the application, ensure you have the following installed:
+Before deploy the application,i have the following installed:
 
 - **Java 17 or higher**
 - **Maven**
-- **An IDE** (e.g., IntelliJ IDEA, Eclipse) or a text editor
-- **An OpenWeatherMap API key** (you can sign up at [OpenWeatherMap](https://openweathermap.org/api) to get your API key).
+- **An IDE** (e.g., IntelliJ IDEA)
+- **An OpenWeatherMap API key** (i signed up at [OpenWeatherMap](https://openweathermap.org/api) to get API key).
 
 ## Getting Started
 
-### 1. Clone the Repository
-
-Clone the project repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/WeatherInformationService.git
-cd WeatherInformationService
+### 1.Repository Link
+   https://github.com/QUAYEMX1/WeatherInfoService
