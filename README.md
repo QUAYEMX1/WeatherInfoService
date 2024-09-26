@@ -1,10 +1,10 @@
-# Weather Information Service
+#🌦️ Weather Information Service
 
 ## Overview
 
 **The Weather Information Service** is a Spring Boot application that retrieves current weather information for a specified city using the OpenWeatherMap API. This service provides a RESTful API endpoint that accepts a city name and an API key, returning the weather data in JSON format.
 
-## Features
+## ✨Features
 
 - **Fetch Current Weather Data**: Retrieve weather information for a specified city.
 - **Easy Integration**: Seamlessly connects with the OpenWeatherMap API.
@@ -12,7 +12,7 @@
 
 ## Project Structure
 
-### Backend
+### 🛠️Backend
 
 - **Framework**: Spring Boot
 - **Language**: Java
@@ -35,7 +35,7 @@ The `WeatherController` class handles API requests for retrieving weather inform
 - **IntelliJ IDEA** (Backend)
 - **Postman** (Testing Purpose)
 
-## Getting Started
+## 🚀Getting Started
 
 ### Prerequisites
 
@@ -85,3 +85,5 @@ Before begin, you have the following installed:
 ## Conclusion
 
 The **Weather Information Service** provides a simple and efficient way to access current weather data for any city, enhancing the user's ability to stay informed about weather conditions.
+
+Developed with ❤️ by **Md Quayem Ashraf**
