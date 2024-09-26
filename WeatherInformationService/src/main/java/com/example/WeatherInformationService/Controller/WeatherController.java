@@ -18,7 +18,7 @@ public class WeatherController {
     WeatherService weatherService;
 
     @GetMapping("GetWeatherInfo")
-    public ResponseEntity<Object> GetWeatherInfo(@RequestParam("city") String city, @RequestParam("api-key") String apiKey) {
+    public ResponseEntity<Object> GetWeatherInfo(@RequestParam("city") String city, @RequestParam("apiKey") String apiKey) {
 
         try {
             Object response = weatherService.GetWeatherInfo(city, apiKey);
