@@ -80,7 +80,7 @@ Before begin, you have the following installed:
 
 - **Ensure we have the correct Java version**: This application is compatible with Java 17 or higher(21).
 - **Check your API key**: Make sure OpenWeatherMap API key is valid and has the necessary permissions.
-- **Port conflicts**: If port 8080 is already in use,we can change the port in `application.properties` by adding `server.port=8081` (or any other available port).
+- **Port conflicts**: If port 8080 is already in use,we can change the port in `application.properties` by adding `server.port`=? (or any other available port e.g:8081).
 
 ## Conclusion
 
